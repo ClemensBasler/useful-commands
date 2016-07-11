@@ -1,8 +1,33 @@
-#### Linux
-<b>Remove a folder with everthing in there </b>
+#### Docker
 
-rm -rf mydir
+shows all images (default hides intermediate images):
 
-<b> Rename a folder </b>
+    docker images -a
 
-mv /home/user/oldname /home/user/newname
+shows running docker container:
+
+    docker ps
+
+shows all docker container:
+
+    docker ps -a
+
+deletes a Container:
+
+    docker rm [Container ID]
+
+deletes all unused Containers:
+
+    docker rm `docker ps -aq`
+
+deletes Image:
+
+    docker rmi [Image ID]
+
+deletes all images tagged with (but the one with "dependent child images"):
+
+    docker rmi $(docker images -a | grep "^" | awk '{print $3}')
+
+stop an running container/image
+
+    docker stop [Container ID]
