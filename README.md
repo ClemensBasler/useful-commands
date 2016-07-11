@@ -5,9 +5,7 @@ git remote add origin yourRepository
 
 <b> initialize an git branch </b>
 
-1. don't forget:
-.gitignore (node_modules?, typings + .map + .js files (Typescript)?, node-debug.log?)
-README.markdown
+1. don't forget: .gitignore (node_modules?, typings + .map + .js files (Typescript)?, node-debug.log?), README.markdown
 
 2. git init
 3. git add -A
