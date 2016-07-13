@@ -13,6 +13,4 @@ cp -r /home/hope/files/* /home/hope/backup
 
 <b> open Chrome </b>
 
-cp -r /home/hope/files/* /home/hope/backup
-
 google-chrome
