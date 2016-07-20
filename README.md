@@ -18,6 +18,7 @@ git diff branch1..branch2
 q
 
 <b> setting name </b>
+
 git config user.name
 
 <b> initialize an git branch </b>
