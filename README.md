@@ -1,13 +1,16 @@
 #### GIT
 <b>Add an repository</b>
+
 git remote add origin yourRepository
 
 <b>removing a cached file. </b>
+
 git rm --cached 
 
 Its useful, if you pushed a filer/folder, but add it later to .gitignore. With this command it won´t be pushed anymore.
 
 <b> compare two branches for diffrences </b>
+
 git diff branch1..branch2
 
 <b> quit git log (e.g. git diff) </b>
