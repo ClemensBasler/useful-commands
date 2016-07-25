@@ -23,7 +23,7 @@ git config user.name
 
 <b> rename a branch </b>
 
-git branch -m <oldname> <newname>
+git branch -m oldname newname
 
 <b> initialize an git branch </b>
 
