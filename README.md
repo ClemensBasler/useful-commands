@@ -21,6 +21,10 @@ q
 
 git config user.name
 
+<b> rename a branch </b>
+
+git branch -m <oldname> <newname>
+
 <b> initialize an git branch </b>
 
 1. don't forget: .gitignore (node_modules?, typings + .map + .js files (Typescript)?, node-debug.log?), README.markdown
