@@ -5,7 +5,7 @@ git remote add origin yourRepository
 
 <b>removing a cached file. </b>
 
-git rm --cached 
+git rm --cached file
 
 Its useful, if you pushed a filer/folder, but add it later to .gitignore. With this command it won´t be pushed anymore.
 
