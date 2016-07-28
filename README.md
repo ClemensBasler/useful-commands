@@ -30,6 +30,14 @@ git branch -m oldname newname
 1. git fetch
 2. git checkout remotebranch
 
+<b> show all running processes </b>
+
+ps
+
+<b> kill a procress </b>
+
+
+
 <b> initialize an git branch </b>
 
 1. don't forget: .gitignore (node_modules?, typings + .map + .js files (Typescript)?, node-debug.log?), README.markdown
