@@ -36,7 +36,7 @@ ps
 
 <b> kill a procress </b>
 
-
+kill processnumber
 
 <b> initialize an git branch </b>
 
