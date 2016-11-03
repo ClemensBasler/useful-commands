@@ -14,3 +14,7 @@ cp -r /home/hope/files/* /home/hope/backup
 <b> open Chrome </b>
 
 google-chrome
+
+<b> open steam </b>
+
+LD_PRELOAD='/usr/$LIB/libstdc++.so.6' DISPLAY=:0 steam
