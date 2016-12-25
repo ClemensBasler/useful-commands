@@ -9,6 +9,8 @@ git rm --cached file
 
 Its useful, if you pushed a filer/folder, but add it later to .gitignore. With this command it won´t be pushed anymore.
 
+git update-index --assume-unchanged [path]
+
 <b> compare two branches for diffrences </b>
 
 git diff branch1..branch2
