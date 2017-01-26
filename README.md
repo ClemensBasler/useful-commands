@@ -32,6 +32,9 @@ git branch -m oldname newname
 1. git fetch
 2. git checkout remotebranch
 
+<b>checkout untracked remote branch</b>
+git checkout --track origin/daves_branch
+
 <b> show all running processes </b>
 
 ps
