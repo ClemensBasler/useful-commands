@@ -22,3 +22,7 @@ LD_PRELOAD='/usr/$LIB/libstdc++.so.6' DISPLAY=:0 steam
 <b> create bootble Stick <b>
 
 https://wiki.ubuntuusers.de/Live-USB/
+
+<b>busy box herunterfahren <b>
+
+poweroff
