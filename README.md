@@ -18,3 +18,7 @@ google-chrome
 <b> open steam </b>
 
 LD_PRELOAD='/usr/$LIB/libstdc++.so.6' DISPLAY=:0 steam
+
+<b> create bootble Stick <b>
+
+https://wiki.ubuntuusers.de/Live-USB/
