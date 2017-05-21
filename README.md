@@ -33,7 +33,6 @@ sudo apt install ./package.deb
 
 <b> install node </b>
 -sudo apt-get install npm 
--
 
 <b> installing atom </b>
 -https://atom.io/
