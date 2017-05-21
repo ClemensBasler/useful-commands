@@ -30,3 +30,13 @@ poweroff
 <b> install .deb file </b>
 Use apt (the proper way)
 sudo apt install ./package.deb
+
+<b> install node </b>
+-sudo apt-get install npm 
+-
+
+<b> installing atom </b>
+-https://atom.io/
+
+<b>installing Chrome</b>
+-https://www.google.com/chrome/browser/desktop/index.html
