@@ -32,10 +32,11 @@ Use apt (the proper way)
 sudo apt install ./package.deb
 
 <b> install node </b>
--sudo apt-get install npm 
+sudo apt-get install npm 
+sudo npm install npm@latest -g
 
 <b> installing atom </b>
--https://atom.io/
+https://atom.io/
 
 <b>installing Chrome</b>
--https://www.google.com/chrome/browser/desktop/index.html
+https://www.google.com/chrome/browser/desktop/index.html
