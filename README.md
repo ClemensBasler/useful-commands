@@ -26,3 +26,7 @@ https://wiki.ubuntuusers.de/Live-USB/
 <b>busy box herunterfahren </b>
 
 poweroff
+
+<b> install .deb file </b>
+Use apt (the proper way)
+sudo apt install ./package.deb
