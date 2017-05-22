@@ -34,10 +34,6 @@ sudo apt install ./package.deb
 
 <b> install node </b>
 
-sudo apt-get install npm
-
-sudo npm install npm@latest -g
-
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 
 sudo apt-get install -y nodejs
