@@ -38,6 +38,15 @@ curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 
 sudo apt-get install -y nodejs
 
+<b> Atom change Tab </b>
+
+'body':
+  'ctrl-tab': 'pane:show-next-item'
+  'ctrl-tab ^ctrl': 'unset!'
+  'ctrl-shift-tab': 'pane:show-previous-item'
+  'ctrl-shift-tab ^ctrl': 'unset!'
+
+
 <b> installing atom </b>
 
 https://atom.io/
