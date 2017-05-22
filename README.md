@@ -49,3 +49,7 @@ https://www.google.com/chrome/browser/desktop/index.html
 <b> create File </b>
 
 touch
+
+<b>run jar file </b>
+
+java -jar load.jar load=2
