@@ -34,7 +34,8 @@ sudo apt install ./package.deb
 
 <b> install node </b>
 
-sudo apt-get install npm 
+sudo apt-get install npm
+
 sudo npm install npm@latest -g
 
 <b> installing atom </b>
