@@ -49,3 +49,7 @@ https://atom.io/
 <b>installing Chrome</b>
 
 https://www.google.com/chrome/browser/desktop/index.html
+
+<b> create File </b>
+
+touch
