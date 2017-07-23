@@ -67,3 +67,9 @@ java -jar load.jar load=2
 Serving Folder: /var/www/html/
 
 starting apache: sudo service apache2 start
+
+
+<b> updating packages</b>
+sudo apt-get update
+
+sudo apt-get upgrade
