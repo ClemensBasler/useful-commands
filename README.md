@@ -69,7 +69,9 @@ Serving Folder: /var/www/html/
 starting apache: sudo service apache2 start
 
 
-<b> updating packages</b>
+<b> package management</b>
 sudo apt-get update
 
 sudo apt-get upgrade
+
+sudo apt autoremove
