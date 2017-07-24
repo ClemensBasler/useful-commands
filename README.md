@@ -77,4 +77,11 @@ sudo apt-get upgrade
 sudo apt autoremove
 
 <b>cd with sudo </b>
+
 sudo -i
+
+<b>search the apt thingy </b>
+
+apt-cache search keyword
+
+
