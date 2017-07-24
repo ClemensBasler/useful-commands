@@ -1,2 +1,7 @@
 ### Just my notebook for useful commands
-Switch between the branches!
+
+<b> update NPM </b>
+
+    sudo npm i -g npm
+    
+
