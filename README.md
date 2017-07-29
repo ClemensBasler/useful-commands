@@ -56,14 +56,6 @@ https://www.google.com/chrome/browser/desktop/index.html
 
     java -jar load.jar load=2
 
-<b>apache2</b>
-
-Serving Folder: /var/www/html/
-
-starting apache: 
-    
-    sudo service apache2 start
-
 <b> package management</b>
     
     sudo apt-get update
