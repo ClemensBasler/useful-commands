@@ -71,5 +71,9 @@ https://www.google.com/chrome/browser/desktop/index.html
 <b>search in the apt kontext </b>
 
     apt-cache search keyword
+    
+<b> formatting a usb </b>
+
+    sudo gparted
 
 
