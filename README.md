@@ -3,4 +3,4 @@
 * bulletpoint two
 
 ## Subheadline
-`this looks gray`
+- `this looks gray`
