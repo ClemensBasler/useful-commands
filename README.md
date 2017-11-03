@@ -3,4 +3,5 @@
 * bulletpoint two
 
 ## Subheadline
-- `this looks gray`
+1. `this looks gray`
+2. [this is a link](www.google.com)
