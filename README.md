@@ -30,4 +30,11 @@ deletes all images tagged with (but the one with "dependent child images"):
 
 stop an running container/image
 
-    docker stop [Container ID]
+    docker stop [Container ID
+    
+build docker image 
+    docker build -t testimage .
+    
+run docker image 
+    docker run -p 4000:4000 testimage
+
