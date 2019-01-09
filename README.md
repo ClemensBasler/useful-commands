@@ -32,9 +32,11 @@ stop an running container/image
 
     docker stop [Container ID
     
-build docker image 
+build docker image
+
     docker build -t testimage .
     
 run docker image 
+
     docker run -p 4000:4000 testimage
 
