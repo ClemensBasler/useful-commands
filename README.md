@@ -1,4 +1,4 @@
-### status of a specific port in windows from cmd
+### check port
 
     netstat -na | find "8080" 
 
