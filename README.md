@@ -1,4 +1,4 @@
 ### check port
 
-    netstat -na | find "8080" 
+    netstat -ano | findstr :8080 
 
