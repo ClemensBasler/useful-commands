@@ -1,2 +1,4 @@
-### Just my notebook for useful commands
-Switch between the branches!
+### status of a specific port in windows from cmd
+
+    netstat -na | find "8080" 
+
