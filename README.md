@@ -4,7 +4,7 @@
 
     sudo npm i -g npm
     
-<b> install node </b>
+#### install node (Linux)
 
     curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 
