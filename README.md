@@ -39,4 +39,24 @@ build docker image
 run docker image 
 
     docker run -p 4000:4000 testimage
+   
+#### Gitlab repository
 
+login to docker repository
+    
+    docker login registry.gitlab.com
+
+
+building and pushing 
+
+    docker build -t registry.gitlab.com/basler/docker-nginx-fullstack-app-registry .
+    
+    docker push registry.gitlab.com/basler/docker-nginx-fullstack-app-registry
+
+tagging
+
+    registry.gitlab.com/basler/docker-nginx-fullstack-app-registry:tag
+
+    registry.gitlab.com/basler/docker-nginx-fullstack-app-registry/optional-image-name:tag
+    
+    registry.gitlab.com/basler/docker-nginx-fullstack-app-registry/optional-name/optional-image-name:tag
